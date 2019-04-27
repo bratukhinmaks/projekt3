@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project_2"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/macbookpro/Downloads/project_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/macbookpro/Downloads/project_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/macbookpro/Downloads/project_2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB09">
+				<Option output="/Users/macbookpro/Downloads/project_2/cmake-build-debug/LAB09" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macbookpro/Downloads/project_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 LAB09"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LAB09/fast">
+				<Option output="/Users/macbookpro/Downloads/project_2/cmake-build-debug/LAB09" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macbookpro/Downloads/project_2/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 LAB09/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbookpro/Downloads/project_2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/complex.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/complex.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/fifo.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/fifo.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/main.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_dispatcher.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_dispatcher.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_producer.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_producer.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/doc_presenter.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/doc_presenter.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/error_presenter.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/error_presenter.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/message_service.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/message_service.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/message_services.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/multimedia_player.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/multimedia_player.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/test_runner.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/message_services/test_runner.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/error_message.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/error_message.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/multimedia_message.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/multimedia_message.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/my_message.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/my_message.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/my_messages.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/test_message.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/test_message.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/text_message.cpp">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/messages/text_message.h">
+			<Option target="LAB09"/>
+		</Unit>
+		<Unit filename="/Users/macbookpro/Downloads/project_2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
