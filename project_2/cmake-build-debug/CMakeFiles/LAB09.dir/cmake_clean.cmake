@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/LAB09.dir/main.cpp.o"
   "CMakeFiles/LAB09.dir/complex.cpp.o"
   "CMakeFiles/LAB09.dir/fifo.cpp.o"
+  "CMakeFiles/LAB09.dir/Test.cpp.o"
   "CMakeFiles/LAB09.dir/message_producer.cpp.o"
   "CMakeFiles/LAB09.dir/message_dispatcher.cpp.o"
   "CMakeFiles/LAB09.dir/messages/my_message.cpp.o"

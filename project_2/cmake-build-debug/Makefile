@@ -123,6 +123,33 @@ LAB09/fast:
 	$(MAKE) -f CMakeFiles/LAB09.dir/build.make CMakeFiles/LAB09.dir/build
 .PHONY : LAB09/fast
 
+Test.o: Test.cpp.o
+
+.PHONY : Test.o
+
+# target to build an object file
+Test.cpp.o:
+	$(MAKE) -f CMakeFiles/LAB09.dir/build.make CMakeFiles/LAB09.dir/Test.cpp.o
+.PHONY : Test.cpp.o
+
+Test.i: Test.cpp.i
+
+.PHONY : Test.i
+
+# target to preprocess a source file
+Test.cpp.i:
+	$(MAKE) -f CMakeFiles/LAB09.dir/build.make CMakeFiles/LAB09.dir/Test.cpp.i
+.PHONY : Test.cpp.i
+
+Test.s: Test.cpp.s
+
+.PHONY : Test.s
+
+# target to generate assembly for a file
+Test.cpp.s:
+	$(MAKE) -f CMakeFiles/LAB09.dir/build.make CMakeFiles/LAB09.dir/Test.cpp.s
+.PHONY : Test.cpp.s
+
 complex.o: complex.cpp.o
 
 .PHONY : complex.o
@@ -537,6 +564,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... LAB09"
+	@echo "... Test.o"
+	@echo "... Test.i"
+	@echo "... Test.s"
 	@echo "... complex.o"
 	@echo "... complex.i"
 	@echo "... complex.s"

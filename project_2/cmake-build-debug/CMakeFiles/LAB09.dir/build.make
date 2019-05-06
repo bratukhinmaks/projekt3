@@ -96,9 +96,22 @@ CMakeFiles/LAB09.dir/fifo.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LAB09.dir/fifo.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/macbookpro/Downloads/project_2/fifo.cpp -o CMakeFiles/LAB09.dir/fifo.cpp.s
 
+CMakeFiles/LAB09.dir/Test.cpp.o: CMakeFiles/LAB09.dir/flags.make
+CMakeFiles/LAB09.dir/Test.cpp.o: ../Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LAB09.dir/Test.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/Test.cpp.o -c /Users/macbookpro/Downloads/project_2/Test.cpp
+
+CMakeFiles/LAB09.dir/Test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/LAB09.dir/Test.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/macbookpro/Downloads/project_2/Test.cpp > CMakeFiles/LAB09.dir/Test.cpp.i
+
+CMakeFiles/LAB09.dir/Test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/LAB09.dir/Test.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/macbookpro/Downloads/project_2/Test.cpp -o CMakeFiles/LAB09.dir/Test.cpp.s
+
 CMakeFiles/LAB09.dir/message_producer.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_producer.cpp.o: ../message_producer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/LAB09.dir/message_producer.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LAB09.dir/message_producer.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_producer.cpp.o -c /Users/macbookpro/Downloads/project_2/message_producer.cpp
 
 CMakeFiles/LAB09.dir/message_producer.cpp.i: cmake_force
@@ -111,7 +124,7 @@ CMakeFiles/LAB09.dir/message_producer.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/message_dispatcher.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_dispatcher.cpp.o: ../message_dispatcher.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/LAB09.dir/message_dispatcher.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LAB09.dir/message_dispatcher.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_dispatcher.cpp.o -c /Users/macbookpro/Downloads/project_2/message_dispatcher.cpp
 
 CMakeFiles/LAB09.dir/message_dispatcher.cpp.i: cmake_force
@@ -124,7 +137,7 @@ CMakeFiles/LAB09.dir/message_dispatcher.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/messages/my_message.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/messages/my_message.cpp.o: ../messages/my_message.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/LAB09.dir/messages/my_message.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LAB09.dir/messages/my_message.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/messages/my_message.cpp.o -c /Users/macbookpro/Downloads/project_2/messages/my_message.cpp
 
 CMakeFiles/LAB09.dir/messages/my_message.cpp.i: cmake_force
@@ -137,7 +150,7 @@ CMakeFiles/LAB09.dir/messages/my_message.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/messages/text_message.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/messages/text_message.cpp.o: ../messages/text_message.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/LAB09.dir/messages/text_message.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LAB09.dir/messages/text_message.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/messages/text_message.cpp.o -c /Users/macbookpro/Downloads/project_2/messages/text_message.cpp
 
 CMakeFiles/LAB09.dir/messages/text_message.cpp.i: cmake_force
@@ -150,7 +163,7 @@ CMakeFiles/LAB09.dir/messages/text_message.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/messages/error_message.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/messages/error_message.cpp.o: ../messages/error_message.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/LAB09.dir/messages/error_message.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LAB09.dir/messages/error_message.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/messages/error_message.cpp.o -c /Users/macbookpro/Downloads/project_2/messages/error_message.cpp
 
 CMakeFiles/LAB09.dir/messages/error_message.cpp.i: cmake_force
@@ -163,7 +176,7 @@ CMakeFiles/LAB09.dir/messages/error_message.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/messages/test_message.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/messages/test_message.cpp.o: ../messages/test_message.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/LAB09.dir/messages/test_message.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LAB09.dir/messages/test_message.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/messages/test_message.cpp.o -c /Users/macbookpro/Downloads/project_2/messages/test_message.cpp
 
 CMakeFiles/LAB09.dir/messages/test_message.cpp.i: cmake_force
@@ -176,7 +189,7 @@ CMakeFiles/LAB09.dir/messages/test_message.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.o: ../messages/multimedia_message.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.o -c /Users/macbookpro/Downloads/project_2/messages/multimedia_message.cpp
 
 CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.i: cmake_force
@@ -189,7 +202,7 @@ CMakeFiles/LAB09.dir/messages/multimedia_message.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/message_services/message_service.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_services/message_service.cpp.o: ../message_services/message_service.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/LAB09.dir/message_services/message_service.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LAB09.dir/message_services/message_service.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_services/message_service.cpp.o -c /Users/macbookpro/Downloads/project_2/message_services/message_service.cpp
 
 CMakeFiles/LAB09.dir/message_services/message_service.cpp.i: cmake_force
@@ -202,7 +215,7 @@ CMakeFiles/LAB09.dir/message_services/message_service.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.o: ../message_services/doc_presenter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.o -c /Users/macbookpro/Downloads/project_2/message_services/doc_presenter.cpp
 
 CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.i: cmake_force
@@ -215,7 +228,7 @@ CMakeFiles/LAB09.dir/message_services/doc_presenter.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.o: ../message_services/multimedia_player.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.o -c /Users/macbookpro/Downloads/project_2/message_services/multimedia_player.cpp
 
 CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.i: cmake_force
@@ -228,7 +241,7 @@ CMakeFiles/LAB09.dir/message_services/multimedia_player.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.o: ../message_services/error_presenter.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.o -c /Users/macbookpro/Downloads/project_2/message_services/error_presenter.cpp
 
 CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.i: cmake_force
@@ -241,7 +254,7 @@ CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.s: cmake_force
 
 CMakeFiles/LAB09.dir/message_services/test_runner.cpp.o: CMakeFiles/LAB09.dir/flags.make
 CMakeFiles/LAB09.dir/message_services/test_runner.cpp.o: ../message_services/test_runner.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/LAB09.dir/message_services/test_runner.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/LAB09.dir/message_services/test_runner.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/LAB09.dir/message_services/test_runner.cpp.o -c /Users/macbookpro/Downloads/project_2/message_services/test_runner.cpp
 
 CMakeFiles/LAB09.dir/message_services/test_runner.cpp.i: cmake_force
@@ -257,6 +270,7 @@ LAB09_OBJECTS = \
 "CMakeFiles/LAB09.dir/main.cpp.o" \
 "CMakeFiles/LAB09.dir/complex.cpp.o" \
 "CMakeFiles/LAB09.dir/fifo.cpp.o" \
+"CMakeFiles/LAB09.dir/Test.cpp.o" \
 "CMakeFiles/LAB09.dir/message_producer.cpp.o" \
 "CMakeFiles/LAB09.dir/message_dispatcher.cpp.o" \
 "CMakeFiles/LAB09.dir/messages/my_message.cpp.o" \
@@ -276,6 +290,7 @@ LAB09_EXTERNAL_OBJECTS =
 LAB09: CMakeFiles/LAB09.dir/main.cpp.o
 LAB09: CMakeFiles/LAB09.dir/complex.cpp.o
 LAB09: CMakeFiles/LAB09.dir/fifo.cpp.o
+LAB09: CMakeFiles/LAB09.dir/Test.cpp.o
 LAB09: CMakeFiles/LAB09.dir/message_producer.cpp.o
 LAB09: CMakeFiles/LAB09.dir/message_dispatcher.cpp.o
 LAB09: CMakeFiles/LAB09.dir/messages/my_message.cpp.o
@@ -290,7 +305,7 @@ LAB09: CMakeFiles/LAB09.dir/message_services/error_presenter.cpp.o
 LAB09: CMakeFiles/LAB09.dir/message_services/test_runner.cpp.o
 LAB09: CMakeFiles/LAB09.dir/build.make
 LAB09: CMakeFiles/LAB09.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Linking CXX executable LAB09"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/macbookpro/Downloads/project_2/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable LAB09"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/LAB09.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
